@@ -108,6 +108,12 @@ button + button, .button + .button, input[type=submit] + input[type=submit] {
     font-weight: bold;
 }
 
+.dark-background {
+  background-color: var(--dark);
+  color: var(--light);
+  padding: 3px 4px;
+  border-radius: 3px;
+}
 
 /* Desktop sizes */
 @media (min-width: 600px) {
