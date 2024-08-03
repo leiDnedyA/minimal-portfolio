@@ -29,6 +29,10 @@ ul.slight-spacing > li {
   background-color: #0b50b8;
 }
 
+.tag.presskit {
+  background-color: #0096c4;
+}
+
 .tag.dark {
   background-color: #333;
 }
