@@ -40,3 +40,7 @@ ul.slight-spacing > li {
 .tag.expanded {
   padding: 10px;
 }
+
+.bordered {
+  border-radius: 5px;
+}
